@@ -1,0 +1,30 @@
+File system:  Hierarchy & Structure
+list the directory content,
+file system usage,
+disk space usage
+
+Managing files:
+   
+create a file,
+create a various types of files like doc,txt,etc
+remove a file
+rename a file
+move the created file to the directory
+move file to the homepage
+
+Writing in a file:
+
+echo command to write a content in a file  
+coping it into the directory
+
+Display the file content;
+ 
+cat command to view a content in a file
+echo command to write a lines in a file
+tail command to view last lines
+head command to view first lines
+nl command to view no of lines
+
+Cloud storage:
+
+Fire base is one of the google based storage
